@@ -1,0 +1,10 @@
+:~
+  title+'MusterMVP'
+  info+'MVP of Muster'
+  color+0xd9.b06d
+  version+[0 1 1]
+  website+'https://urbit.org'
+  license+'MIT'
+  base+'journal'
+  glob-ames+[~ravnyd-hadrep 0v0]
+==
